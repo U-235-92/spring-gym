@@ -10,18 +10,24 @@
 	</parent>
 
 	<groupId>aq.koptev.projects</groupId>
-	<artifactId>spring-abstractions-using-example</artifactId>
+	<artifactId>spring-aspect-using-example</artifactId>
 	<version>1.0.0</version>
 
+	<name>spring-aspect-using-example</name>
+
 	<dependencies>
-		<!--
-		https://mvnrepository.com/artifact/org.springframework/spring-context -->
+		<!-- https://mvnrepository.com/artifact/org.springframework/spring-context -->
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-context</artifactId>
 			<version>6.2.1</version>
 		</dependency>
+		<!-- https://mvnrepository.com/artifact/org.springframework/spring-aspects -->
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-aspects</artifactId>
+			<version>6.2.1</version>
+		</dependency>
 	</dependencies>
 
-	<name>spring-abstractions-using-example</name>
 </project>
