@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <artifactId>spring-gym</artifactId>
+    <groupId>aq.koptev.projects</groupId>
+    <version>1.0.0</version>
+  </parent>
+
+  <groupId>aq.koptev.projects</groupId>
+  <artifactId>spring-beans-using-example</artifactId>
+  <version>1.0.0</version>
+
+  <name>spring-beans-using-example</name>
+</project>
