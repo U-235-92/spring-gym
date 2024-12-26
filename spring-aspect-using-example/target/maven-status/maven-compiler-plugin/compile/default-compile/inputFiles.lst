@@ -1,0 +1,8 @@
+M:\Development\Code\Java\eclipse-workspace\spring-gym\spring-aspect-using-example\src\main\java\aq\gym\annotations\ToLog.java
+M:\Development\Code\Java\eclipse-workspace\spring-gym\spring-aspect-using-example\src\main\java\aq\gym\aspects\LoggingAspect.java
+M:\Development\Code\Java\eclipse-workspace\spring-gym\spring-aspect-using-example\src\main\java\aq\gym\aspects\SecurityAspect.java
+M:\Development\Code\Java\eclipse-workspace\spring-gym\spring-aspect-using-example\src\main\java\aq\gym\configurations\AspectConfig.java
+M:\Development\Code\Java\eclipse-workspace\spring-gym\spring-aspect-using-example\src\main\java\aq\gym\configurations\ProjectConfig.java
+M:\Development\Code\Java\eclipse-workspace\spring-gym\spring-aspect-using-example\src\main\java\aq\gym\main\App.java
+M:\Development\Code\Java\eclipse-workspace\spring-gym\spring-aspect-using-example\src\main\java\aq\gym\models\Comment.java
+M:\Development\Code\Java\eclipse-workspace\spring-gym\spring-aspect-using-example\src\main\java\aq\gym\services\CommentService.java

@@ -1,0 +1,8 @@
+aq\gym\configurations\ProjectConfig.class
+aq\gym\aspects\LoggingAspect.class
+aq\gym\models\Comment.class
+aq\gym\services\CommentService.class
+aq\gym\main\App.class
+aq\gym\aspects\SecurityAspect.class
+aq\gym\annotations\ToLog.class
+aq\gym\configurations\AspectConfig.class
