@@ -1,0 +1,9 @@
+M:\Development\Code\Java\eclipse-workspace\spring-gym\spring-abstractions-using-example\src\main\java\aq\gym\spring_abstractions\configuration\ProjectConfiguration.java
+M:\Development\Code\Java\eclipse-workspace\spring-gym\spring-abstractions-using-example\src\main\java\aq\gym\spring_abstractions\main\Main.java
+M:\Development\Code\Java\eclipse-workspace\spring-gym\spring-abstractions-using-example\src\main\java\aq\gym\spring_abstractions\models\Comment.java
+M:\Development\Code\Java\eclipse-workspace\spring-gym\spring-abstractions-using-example\src\main\java\aq\gym\spring_abstractions\proxies\CommentNotificationProxy.java
+M:\Development\Code\Java\eclipse-workspace\spring-gym\spring-abstractions-using-example\src\main\java\aq\gym\spring_abstractions\proxies\CommentPushNotificationProxy.java
+M:\Development\Code\Java\eclipse-workspace\spring-gym\spring-abstractions-using-example\src\main\java\aq\gym\spring_abstractions\proxies\EmailCommentNotificationProxy.java
+M:\Development\Code\Java\eclipse-workspace\spring-gym\spring-abstractions-using-example\src\main\java\aq\gym\spring_abstractions\repositories\CommentRepository.java
+M:\Development\Code\Java\eclipse-workspace\spring-gym\spring-abstractions-using-example\src\main\java\aq\gym\spring_abstractions\repositories\DbCommentRepository.java
+M:\Development\Code\Java\eclipse-workspace\spring-gym\spring-abstractions-using-example\src\main\java\aq\gym\spring_abstractions\services\CommentService.java

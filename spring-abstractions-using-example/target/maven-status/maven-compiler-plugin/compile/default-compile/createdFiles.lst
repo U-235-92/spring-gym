@@ -1,0 +1,9 @@
+aq\gym\spring_abstractions\main\Main.class
+aq\gym\spring_abstractions\services\CommentService.class
+aq\gym\spring_abstractions\proxies\CommentNotificationProxy.class
+aq\gym\spring_abstractions\proxies\CommentPushNotificationProxy.class
+aq\gym\spring_abstractions\repositories\CommentRepository.class
+aq\gym\spring_abstractions\configuration\ProjectConfiguration.class
+aq\gym\spring_abstractions\proxies\EmailCommentNotificationProxy.class
+aq\gym\spring_abstractions\repositories\DbCommentRepository.class
+aq\gym\spring_abstractions\models\Comment.class
