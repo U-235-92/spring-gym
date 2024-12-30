@@ -9,6 +9,7 @@
     <module>spring-abstractions-using-example</module>
     <module>spring-beans-using-example</module>
     <module>spring-aspect-using-example</module>
+    <module>spring-jdbc-using-example</module>
   </modules>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
