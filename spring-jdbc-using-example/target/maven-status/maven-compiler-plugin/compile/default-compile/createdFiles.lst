@@ -1,0 +1,7 @@
+aq\app\main\App.class
+aq\app\repositories\PersonRepository.class
+aq\app\config\DataSourceConfig.class
+aq\app\config\ProjectConfig.class
+aq\app\models\Person.class
+aq\app\services\PersonService.class
+aq\app\aspects\LogAspect.class

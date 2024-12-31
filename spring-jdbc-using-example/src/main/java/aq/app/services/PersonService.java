@@ -1,5 +1,7 @@
 package aq.app.services;
 
+import java.util.List;
+
 import org.springframework.stereotype.Service;
 
 import aq.app.models.Person;
@@ -13,6 +15,14 @@ public class PersonService {
 	private final PersonRepository personRepository;
 	
 	public void savePerson(Person person) {
-		
+		personRepository.savePerson(person);
+	}
+	
+	public void savePersons(Person...persons) {
+		personRepository.savePersons(persons);
+	}
+	
+	public List<Person> getPersons() {
+		return personRepository.getPersons(); 
 	}
 }
